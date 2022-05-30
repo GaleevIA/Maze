@@ -1,0 +1,1185 @@
+﻿Log file open, 05/30/22 14:57:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Maze
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.330547
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.30-11.57.07:494][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.30-11.57.07:494][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.30-11.57.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:495][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.30-11.57.07:495][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:495][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:800][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.30-11.57.07:800][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-11.57.07:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.30-11.57.07:802][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.30-11.57.07:802][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.30-11.57.07:802][  0]LogHAL: Display: Platform has ~ 16 GB [17128607744 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.30-11.57.07:802][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.30-11.57.07:802][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:802][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [E:/UE/Maze/Maze/Saved/Config/Windows/Scalability.ini]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.05.30-11.57.07:803][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.30-11.57.07:804][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.30-11.57.07:804][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.30-11.57.07:804][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.30-11.57.07:804][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE/Maze/Maze/Saved/Config/Windows/Engine.ini]
+[2022.05.30-11.57.07:804][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE/Maze/Maze/Saved/Config/Windows/Editor.ini]
+[2022.05.30-11.57.07:804][  0]LogInit: Computer: DESKTOP-U4RM9Q6
+[2022.05.30-11.57.07:804][  0]LogInit: User: Iliyas
+[2022.05.30-11.57.07:804][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.30-11.57.07:804][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.30-11.57.07:804][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.30-11.57.07:804][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.30-11.57.07:804][  0]LogMemory: Process Physical Memory: 140.27 MB used, 140.27 MB peak
+[2022.05.30-11.57.07:804][  0]LogMemory: Process Virtual Memory: 112.41 MB used, 112.41 MB peak
+[2022.05.30-11.57.07:804][  0]LogMemory: Physical Memory: 5160.54 MB used,  11174.57 MB free, 16335.11 MB total
+[2022.05.30-11.57.07:804][  0]LogMemory: Virtual Memory: 134196784.00 MB used,  20943.74 MB free, 134217728.00 MB total
+[2022.05.30-11.57.07:811][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.30-11.57.07:864][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.30-11.57.07:865][  0]LogInit: Using OS detected language (ru-RU).
+[2022.05.30-11.57.07:865][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.05.30-11.57.07:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.05.30-11.57.07:870][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.05.30-11.57.07:870][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.05.30-11.57.07:871][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.30-11.57.07:886][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-11.57.07:907][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.30-11.57.07:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.30-11.57.08:236][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.30-11.57.08:236][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.30-11.57.08:236][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.30-11.57.08:236][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.30-11.57.08:342][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.05.30-11.57.08:342][  0]LogD3D11RHI:       4018/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.05.30-11.57.08:345][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.30-11.57.08:345][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.30-11.57.08:345][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.30-11.57.08:352][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.30-11.57.08:352][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.30-11.57.08:352][  0]LogWindows: EnumDisplayDevices:
+[2022.05.30-11.57.08:352][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.05.30-11.57.08:353][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.05.30-11.57.08:353][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2022.05.30-11.57.08:353][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.05.30-11.57.08:353][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.30-11.57.08:353][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.05.30-11.57.08:353][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2022.05.30-11.57.08:353][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2022.05.30-11.57.08:354][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.05.30-11.57.08:418][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.30-11.57.08:418][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.30-11.57.08:418][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.30-11.57.08:444][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.30-11.57.08:446][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.30-11.57.08:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.30-11.57.08:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.30-11.57.08:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.30-11.57.08:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.30-11.57.08:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.30-11.57.08:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.30-11.57.08:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.30-11.57.08:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.30-11.57.08:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.30-11.57.08:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.30-11.57.08:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.30-11.57.08:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.30-11.57.08:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.30-11.57.08:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.30-11.57.08:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.30-11.57.08:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.30-11.57.08:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.30-11.57.08:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.30-11.57.08:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.30-11.57.09:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.30-11.57.09:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.30-11.57.09:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.30-11.57.09:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.30-11.57.09:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.30-11.57.09:044][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.30-11.57.09:117][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.30-11.57.09:118][  0]LogShaderCompilers: Guid format shader working directory is 47 characters bigger than the processId version (E:/UE/Maze/Maze/Intermediate/Shaders/WorkingDirectory/19964/).
+[2022.05.30-11.57.09:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/Temp/UnrealShaderWorkingDir/75AD3D114415634791B435B2C5AF2C14/'.
+[2022.05.30-11.57.09:118][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.30-11.57.09:118][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.30-11.57.09:983][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.30-11.57.10:051][  0]LogDerivedDataCache: Loaded boot cache 0.07s 116MB C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.30-11.57.10:051][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.30-11.57.10:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE/Maze/Maze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.30-11.57.10:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.30-11.57.10:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE/Maze/Maze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.30-11.57.10:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.30-11.57.10:065][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.30-11.57.10:065][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.30-11.57.10:065][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.30-11.57.10:073][  0]LogDerivedDataCache: Speed tests for C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.30-11.57.10:073][  0]LogDerivedDataCache: Display: Performance to C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=701.02MBs, RandomWriteSpeed=155.86MBs. Assigned SpeedClass 'Local'
+[2022.05.30-11.57.10:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.30-11.57.10:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.30-11.57.10:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.30-11.57.10:124][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.30-11.57.10:125][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.30-11.57.10:154][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.05.30-11.57.10:411][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.30-11.57.10:411][  0]LogInit: Active device profile: [0000016E177B6000][0000016E79DF2E80 49] Windows
+[2022.05.30-11.57.10:411][  0]LogInit: Profiles: [0000016E177B6000][0000016E79DF2E80 49] Windows, [0000016E17762C00][0000016E79DFB000 49] WindowsNoEditor, [0000016E177B6F00][0000016E79DFF180 49] WindowsServer, [0000016E17763F00][0000016E79E03300 49] WindowsClient, [0000016E177B6700][0000016E79E07480 49] IOS, [0000016E17760800][0000016E79E0B600 49] iPadAir, [0000016E177B4D00][0000016E79DF7740 49] iPadAir2, [0000016E17707000][0000016E18273980 49] IPadPro, [0000016E17707100][0000016E1826F9C0 49] iPadAir3, [0000016E17760A00][0000016E18277B00 49] iPadAir4, [0000016E17706400][0000016E1827FC80 49] iPadMini2, [0000016E17761F00][0000016E18282140 49] iPadMini3, [0000016E17704C00][0000016E182862C0 49] iPadMini4, [0000016E17763B00][0000016E1828A440 49] iPadMini5, [0000016E1772E900][0000016E18292700 49] iPhone6, [0000016E1772EA00][0000016E1828E740 49] iPodTouch6, [0000016E17705300][0000016E1829AA00 49] iPhone7, [0000016E17705200][0000016E18296A40 49] iPodTouch7, [0000016E1772E600][0000016E1829EBC0 49] iPhone5S, [0000016E17705800][0000016E182A2D40 49] iPhone6Plus, [0000016E1772CE00][0000016E182A6EC0 49] iPhone6S, [0000016E17706500][0000016E182AB040 49] iPhone6SPlus, [0000016E1772FB00][0000016E182AF1C0 49] iPhone7Plus, [0000016E17707A00][0000016E182B3340 49] iPhoneSE, [0000016E1772E700][0000016E182B74C0 49] iPhone8, [0000016E17704400][0000016E182BB640 49] iPhone8Plus, [0000016E1772E400][0000016E182BF7C0 49] iPhoneX, [0000016E17705900][0000016E1827B900 49] iPhoneXS, [0000016E1772C700][0000016E182C3A40 49] iPhoneXSMax, [0000016E17705100][0000016E182C7B80 49] iPhoneXR, [0000016E1772ED00][0000016E182CFD00 49] iPhone11, [0000016E17706E00][0000016E182D21C0 49] iPhone11Pro, [0000016E1772E300][0000016E182D6340 49] iPhone11ProMax, [0000016E17705A00][0000016E182DA4C0 49] iPhoneSE2, [0000016E1772D900][0000016E182DE640 49] iPhone12Mini, [0000016E17706600][0000016E182E27C0 49] iPhone12, [0000016E1772C400][0000016E182E6940 49] iPhone12Pro, [0000016E17706B00][0000016E182EAAC0 49] iPhone12ProMax, [0000016E1772FF00][0000016E182EEC40 49] iPadPro105, [0000016E17705600][0000016E182F2DC0 49] iPadPro129, [0000016E1772D700][0000016E182F6F40 49] iPadPro97, [0000016E17707E00][0000016E182FB0C0 49] iPadPro2_129, [0000016E1772D000][0000016E182FF240 49] iPad5, [0000016E17707D00][0000016E183033C0 49] iPad6, [0000016E177B4200][0000016E18307540 49] iPad7, [0000016E1772D100][0000016E1830B6C0 49] iPad8, [0000016E17704100][0000016E1830F840 49] iPadPro11, [0000016E1772CF00][0000016E182CB980 49] iPadPro2_11, [0000016E17707C00][0000016E18313AC0 49] iPadPro3_129, [0000016E1772D500][0000016E18317C00 49] iPadPro4_129, [0000016E17707500][0000016E1831E0C0 49] AppleTV, [0000016E1772FA00][0000016E18322240 49] AppleTV4K, [0000016E17705000][0000016E183263C0 49] TVOS, [0000016E1772E100][0000016E1832A540 49] Mac, [0000016E17706D00][0000016E1832E6C0 49] MacClient, [0000016E1772CA00][0000016E18332840 49] MacNoEditor, [0000016E17704300][0000016E183369C0 49] MacServer, [0000016E1772E000][0000016E1833AB40 49] Linux, [0000016E17705B00][0000016E1833ECC0 49] LinuxAArch64, [0000016E1772C900][0000016E18342E40 49] LinuxNoEditor, [0000016E17704500][0000016E18346FC0 49] LinuxAArch64NoEditor, [0000016E1772DC00][0000016E1834B140 49] LinuxClient, [0000016E17705F00][0000016E1834F2C0 49] LinuxAArch64Client, [0000016E1772F600][0000016E18353440 49] LinuxServer, [0000016E17706800][0000016E183575C0 49] LinuxAArch64Server, [0000016E1772F000][0000016E1835B740 49] Android, [0000016E17706200][0000016E1835F8C0 49] Android_Low, [0000016E1772F700][0000016E1831BA00 49] Android_Mid, [0000016E17706A00][0000016E18363B40 49] Android_High, [0000016E1772F100][0000016E18367C80 49] Android_Default, [0000016E17707200][0000016E1836A100 49] Android_Adreno4xx, [0000016E1772C200][0000016E18372280 49] Android_Adreno5xx_Low, [0000016E17707900][0000016E18376400 49] Android_Adreno5xx, [0000016E1772FD00][0000016E1837A580 49] Android_Adreno6xx, [0000016E17707400][0000016E1837E700 49] Android_Adreno6xx_Vulkan, [0000016E1772DD00][0000016E18382880 49] Android_Mali_T6xx, [0000016E17704F00][0000016E18386A00 49] Android_Mali_T7xx, [0000016E1772EC00][0000016E1838AB80 49] Android_Mali_T8xx, [0000016E17704200][0000016E1838ED00 49] Android_Mali_G71, [0000016E1772C300][0000016E18392E80 49] Android_Mali_G72, [0000016E17705500][0000016E18397000 49] Android_Mali_G72_Vulkan, [0000016E1772F200][0000016E1839B180 49] Android_Mali_G76, [0000016E17707F00][0000016E1839F300 49] Android_Mali_G76_Vulkan, [0000016E1772C600][0000016E183A3480 49] Android_Mali_G77, [0000016E17707700][0000016E183A7600 49] Android_Mali_G77_Vulkan, [0000016E1772EF00][0000016E183AB780 49] Android_Vulkan_SM5, [0000016E17706900][0000016E183AF900 49] Android_PowerVR_G6xxx, [0000016E1772DF00][0000016E1836FA40 49] Android_PowerVR_GT7xxx, [0000016E17707600][0000016E183B3B80 49] Android_PowerVR_GE8xxx, [0000016E17763500][0000016E183B7CC0 49] Android_PowerVR_GM9xxx, [0000016E177B5500][0000016E183BA140 49] Android_PowerVR_GM9xxx_Vulkan, [0000016E17760300][0000016E183C22C0 49] Android_TegraK1, [0000016E177B7100][0000016E183C6440 49] Android_Unknown_Vulkan, [0000016E17762500][0000016E183CA5C0 49] Lumin, [0000016E177B4800][0000016E183CE740 49] Lumin_Desktop, [0000016E17760900][0000016E183D28C0 49] HoloLens, 
+[2022.05.30-11.57.10:526][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.30-11.57.10:526][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.30-11.57.10:526][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.30-11.57.10:526][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.30-11.57.10:526][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.30-11.57.10:549][  0]LogNetVersion: Maze 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3965401219)
+[2022.05.30-11.57.11:032][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.30-11.57.11:119][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.085798 seconds
+[2022.05.30-11.57.11:125][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.05.30-11.57.11:125][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.05.30-11.57.11:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.30-11.57.11:269][  0]LogFMOD: FFMODStudioModule startup
+[2022.05.30-11.57.11:269][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2022.05.30-11.57.11:269][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2022.05.30-11.57.11:273][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2022.05.30-11.57.11:306][  0]LogFMOD: Display: Loaded bank lookup
+[2022.05.30-11.57.11:306][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.05.30-11.57.11:317][  0]LogFMOD: Default sample rate = 48000
+[2022.05.30-11.57.11:317][  0]LogFMOD: System sample rate = 48000
+[2022.05.30-11.57.11:317][  0]LogFMOD: Matching system sample rate 48000
+[2022.05.30-11.57.11:344][  0]LogFMOD: Default sample rate = 48000
+[2022.05.30-11.57.11:344][  0]LogFMOD: System sample rate = 48000
+[2022.05.30-11.57.11:344][  0]LogFMOD: Matching system sample rate 48000
+[2022.05.30-11.57.11:655][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.30-11.57.11:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.30-11.57.11:736][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.05.30-11.57.11:736][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.05.30-11.57.11:736][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.05.30-11.57.11:765][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.11:765][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.11:769][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.11:773][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.11:785][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.11:793][  0]LogUProjectInfo: Found projects:
+[2022.05.30-11.57.12:067][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.30-11.57.12:093][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-11.57.12:093][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.30-11.57.12:154][  0]LogCollectionManager: Loaded 0 collections in 0.000819 seconds
+[2022.05.30-11.57.12:179][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Maze/Maze/Saved/Collections/' took 0.00s
+[2022.05.30-11.57.12:180][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Maze/Maze/Content/Developers/Iliyas/Collections/' took 0.00s
+[2022.05.30-11.57.12:180][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Maze/Maze/Content/Collections/' took 0.00s
+[2022.05.30-11.57.12:180][  0]LogOcInput: OculusInput pre-init called
+[2022.05.30-11.57.12:192][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.30-11.57.12:192][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.30-11.57.12:250][  0]LogEngine: Initializing Engine...
+[2022.05.30-11.57.12:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.30-11.57.12:252][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.30-11.57.12:253][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.30-11.57.12:359][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.30-11.57.12:368][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.30-11.57.12:377][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.30-11.57.12:382][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.30-11.57.12:382][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.30-11.57.12:382][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.30-11.57.12:382][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.30-11.57.12:383][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.30-11.57.12:383][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.30-11.57.12:393][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.30-11.57.12:393][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.30-11.57.12:409][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.05.30-11.57.12:412][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.30-11.57.12:415][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.30-11.57.12:415][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.30-11.57.12:416][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.30-11.57.12:416][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.30-11.57.12:416][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.30-11.57.12:420][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.30-11.57.12:420][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.30-11.57.12:420][  0]LogInit: FAudioDevice initialized.
+[2022.05.30-11.57.12:420][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.30-11.57.12:420][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.30-11.57.12:534][  0]LogDerivedDataCache: Saved boot cache 0.11s 116MB C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.30-11.57.12:537][  0]LogInit: Texture streaming: Enabled
+[2022.05.30-11.57.12:555][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.30-11.57.12:560][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.30-11.57.12:560][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.30-11.57.12:566][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.30-11.57.12:598][  0]LogInit: Transaction tracking system initialized
+[2022.05.30-11.57.12:624][  0]BlueprintLog: New page: Editor Load
+[2022.05.30-11.57.12:707][  0]LocalizationService: Localization service is disabled
+[2022.05.30-11.57.12:735][  0]TimingProfiler: Initialize
+[2022.05.30-11.57.12:735][  0]TimingProfiler: OnSessionChanged
+[2022.05.30-11.57.12:735][  0]LoadingProfiler: Initialize
+[2022.05.30-11.57.12:735][  0]LoadingProfiler: OnSessionChanged
+[2022.05.30-11.57.12:735][  0]NetworkingProfiler: Initialize
+[2022.05.30-11.57.12:735][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.30-11.57.12:735][  0]MemoryProfiler: Initialize
+[2022.05.30-11.57.12:736][  0]MemoryProfiler: OnSessionChanged
+[2022.05.30-11.57.12:886][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.30-11.57.12:886][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.30-11.57.12:927][  0]LogFileCache: Scanning file cache for directory 'E:/UE/Maze/Maze/Content/' took 0.01s
+[2022.05.30-11.57.12:927][  0]LogFMOD: FFMODStudioEditorModule startup
+[2022.05.30-11.57.13:289][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.30-11.57.13:296][  0]SourceControl: Source control is disabled
+[2022.05.30-11.57.13:296][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.561
+[2022.05.30-11.57.13:297][  0]Cmd: MAP LOAD FILE="E:/UE/Maze/Maze/Content/Maps/MazeMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.30-11.57.13:297][  0]LightingResults: New page: Lighting Build
+[2022.05.30-11.57.13:298][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-11.57.13:298][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-11.57.13:298][  0]MapCheck: New page: Map Check
+[2022.05.30-11.57.13:298][  0]LightingResults: New page: Lighting Build
+[2022.05.30-11.57.13:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.30-11.57.14:356][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MazeMap'.
+[2022.05.30-11.57.14:357][  0]LogAIModule: Creating AISystem for world MazeMap
+[2022.05.30-11.57.14:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.30-11.57.14:371][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.30-11.57.14:371][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.30-11.57.14:371][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2022.05.30-11.57.14:371][  0]LogFileHelpers: Loading map 'MazeMap' took 1.075
+[2022.05.30-11.57.14:373][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.638
+[2022.05.30-11.57.14:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-11.57.14:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-11.57.14:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-11.57.14:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.30-11.57.14:550][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3618 classes and 866 folders.
+[2022.05.30-11.57.14:556][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.30-11.57.14:560][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.30-11.57.14:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.30-11.57.14:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.05.30-11.57.14:562][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.30-11.57.14:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.30-11.57.14:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.05.30-11.57.14:565][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.30-11.57.14:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.30-11.57.14:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.05.30-11.57.14:567][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.30-11.57.14:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.30-11.57.14:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.05.30-11.57.14:569][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.30-11.57.14:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.30-11.57.14:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.05.30-11.57.14:572][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.30-11.57.14:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.30-11.57.14:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.05.30-11.57.14:574][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.30-11.57.14:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.30-11.57.14:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.05.30-11.57.14:576][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.30-11.57.14:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.30-11.57.14:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.05.30-11.57.14:578][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.30-11.57.14:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.30-11.57.14:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.05.30-11.57.14:581][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.30-11.57.14:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.30-11.57.14:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.30-11.57.14:583][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.30-11.57.14:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.30-11.57.14:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.30-11.57.14:585][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.30-11.57.14:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.30-11.57.14:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.05.30-11.57.14:587][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.30-11.57.14:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.30-11.57.14:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.30-11.57.14:590][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.30-11.57.14:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.30-11.57.14:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.05.30-11.57.14:592][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.30-11.57.14:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.30-11.57.14:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.05.30-11.57.14:594][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.30-11.57.14:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.30-11.57.14:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.30-11.57.14:596][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.30-11.57.14:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.30-11.57.14:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.30-11.57.14:600][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.30-11.57.14:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.30-11.57.14:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.30-11.57.14:601][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.30-11.57.14:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.30-11.57.14:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.30-11.57.14:603][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.30-11.57.14:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.30-11.57.14:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.30-11.57.14:605][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.30-11.57.14:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.30-11.57.14:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.05.30-11.57.14:607][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.30-11.57.14:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.30-11.57.14:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.05.30-11.57.14:610][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.30-11.57.14:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.30-11.57.14:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.05.30-11.57.14:612][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.30-11.57.14:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.30-11.57.14:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.05.30-11.57.14:615][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.30-11.57.14:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.30-11.57.14:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.05.30-11.57.14:616][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.30-11.57.14:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.30-11.57.14:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.30-11.57.14:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.05.30-11.57.14:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.30-11.57.14:750][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.05.30-11.57.14:762][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.05.30-11.57.14:870][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.30-11.57.14:871][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.30-11.57.14:877][  0]LogSlate: Took 0.001083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.30-11.57.14:982][  0]LogRenderer: Reallocating scene render targets to support 1152x572 Format 9 NumSamples 1 (Frame:1).
+[2022.05.30-11.57.15:483][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.30-11.57.15:562][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.30-11.57.15:562][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.05.30-11.57.15:562][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.05.30-11.57.15:562][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.05.30-11.57.15:562][  0]LogLoad: (Engine Initialization) Total time: 9.83 seconds
+[2022.05.30-11.57.15:562][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.30-11.57.15:562][  0]LogInit: First time updating LLM stats...
+[2022.05.30-11.57.15:599][  0]LogAssetRegistry: Asset discovery search completed in 5.4463 seconds
+[2022.05.30-11.57.15:681][  0]LogFMOD: Display: Loaded bank lookup
+[2022.05.30-11.57.15:681][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.05.30-11.57.15:685][  0]LogFMOD: Default sample rate = 48000
+[2022.05.30-11.57.15:685][  0]LogFMOD: System sample rate = 48000
+[2022.05.30-11.57.15:685][  0]LogFMOD: Matching system sample rate 48000
+[2022.05.30-11.57.15:706][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.05.30-11.57.15:845][  0]LogFMOD: Default sample rate = 48000
+[2022.05.30-11.57.15:845][  0]LogFMOD: System sample rate = 48000
+[2022.05.30-11.57.15:845][  0]LogFMOD: Matching system sample rate 48000
+[2022.05.30-11.57.15:860][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.05.30-11.57.15:900][  0]LogFMOD: Warning: Problem loading FMOD Bank: Could not find master bank (Master.bank). Check project settings.
+[2022.05.30-11.57.15:904][  0]LogFMOD: Display: Loaded bank lookup
+[2022.05.30-11.57.15:904][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.05.30-11.57.15:905][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.30-11.57.15:905][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.30-11.57.15:936][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.30-11.59.19:384][770]Cmd: DELETE
+[2022.05.30-11.59.19:385][770]Cmd: ACTOR DELETE
+[2022.05.30-11.59.19:392][770]LogEditorActor: Deleted Actor: BP_Room_C
+[2022.05.30-11.59.19:399][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.30-11.59.19:400][770]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.05.30-11.59.19:988][839]Cmd: DELETE
+[2022.05.30-11.59.19:988][839]Cmd: ACTOR DELETE
+[2022.05.30-11.59.19:989][839]LogEditorActor: Deleted Actor: BP_Room_C
+[2022.05.30-11.59.19:993][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.30-11.59.19:994][839]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.05.30-11.59.20:432][890]Cmd: DELETE
+[2022.05.30-11.59.20:432][890]Cmd: ACTOR DELETE
+[2022.05.30-11.59.20:433][890]LogEditorActor: Deleted Actor: BP_Room_C
+[2022.05.30-11.59.20:437][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.30-11.59.20:437][890]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.05.30-11.59.20:969][951]Cmd: DELETE
+[2022.05.30-11.59.20:969][951]Cmd: ACTOR DELETE
+[2022.05.30-11.59.20:970][951]LogEditorActor: Deleted Actor: BP_Room_C
+[2022.05.30-11.59.20:974][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.30-11.59.20:975][951]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.05.30-12.00.20:231][995]LogSlate: Window 'Plugins' being destroyed
+[2022.05.30-12.00.20:237][995]LogSlate: Window 'Plugins' being destroyed
+[2022.05.30-12.00.20:238][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.05.30-12.00.22:638][198]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.30-12.00.34:583][408]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.30-12.00.34:590][408]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.30-12.00.35:750][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MazeMap" FILE="E:/UE/Maze/Maze/Content/Maps/MazeMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.30-12.00.35:754][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.05.30-12.00.35:767][529]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/MazeMapA18C510148CCD1AE9C4B7B93E346AEDD.tmp' to 'E:/UE/Maze/Maze/Content/Maps/MazeMap.umap'
+[2022.05.30-12.00.35:775][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MazeMap_BuiltData" FILE="E:/UE/Maze/Maze/Content/Maps/MazeMap_BuiltData.uasset" SILENT=true
+[2022.05.30-12.00.35:799][529]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/MazeMap_BuiltDataA262971C46BC81889A9149822C435DC0.tmp' to 'E:/UE/Maze/Maze/Content/Maps/MazeMap_BuiltData.uasset'
+[2022.05.30-12.00.35:815][529]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-12.00.35:815][529]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MazeMap_BuiltData.MazeMap_BuiltData
+[2022.05.30-12.00.35:815][529]LogContentValidation: Display: Validating World /Game/Maps/MazeMap.MazeMap
+[2022.05.30-12.00.47:266][889]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Interact.W_Interact
+[2022.05.30-12.00.47:405][889]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.05.30-12.00.48:760][889]LogSlate: Took 0.000452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.30-12.00.55:529][503]BlueprintLog: New page: Compile W_Interact
+[2022.05.30-12.00.55:580][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.05.30-12.00.55:675][503]LogSlate: Took 0.000836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.30-12.00.56:267][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Interact" FILE="E:/UE/Maze/Maze/Content/UI/W_Interact.uasset" SILENT=true
+[2022.05.30-12.00.56:274][555]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/W_Interact1D5C48C34F16A9245AD464B4373859DC.tmp' to 'E:/UE/Maze/Maze/Content/UI/W_Interact.uasset'
+[2022.05.30-12.00.56:292][555]AssetCheck: New page: Asset Save: W_Interact
+[2022.05.30-12.00.56:292][555]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Interact.W_Interact
+[2022.05.30-12.00.59:369][850]LogSlate: Window 'W_Interact' being destroyed
+[2022.05.30-12.00.59:376][850]LogSlate: Window 'W_Interact' being destroyed
+[2022.05.30-12.00.59:380][850]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-12.00.59:381][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-12.00.59:388][850]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-12.00.59:388][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-12.01.01:031][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MazeMap" FILE="E:/UE/Maze/Maze/Content/Maps/MazeMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.30-12.01.01:077][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.05.30-12.01.01:089][ 22]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/MazeMapA0B522404A3D748CD7BB34980A0DEDAF.tmp' to 'E:/UE/Maze/Maze/Content/Maps/MazeMap.umap'
+[2022.05.30-12.01.01:096][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MazeMap_BuiltData" FILE="E:/UE/Maze/Maze/Content/Maps/MazeMap_BuiltData.uasset" SILENT=true
+[2022.05.30-12.01.01:120][ 22]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/MazeMap_BuiltData2AA5E7D045952BB398445FAE55BD211F.tmp' to 'E:/UE/Maze/Maze/Content/Maps/MazeMap_BuiltData.uasset'
+[2022.05.30-12.01.01:137][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-12.01.01:137][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MazeMap_BuiltData.MazeMap_BuiltData
+[2022.05.30-12.01.01:137][ 22]LogContentValidation: Display: Validating World /Game/Maps/MazeMap.MazeMap
+[2022.05.30-12.01.06:171][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.30-12.01.09:391][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.30-12.13.01:094][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.13.04:655][864]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.30-12.13.04:676][864]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.30-12.13.06:689][ 47]LogContentBrowser: Attempting asset rename: NewFolder -> Managers
+[2022.05.30-12.13.06:689][ 47]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager_C' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.SKEL_BP_AIManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.SKEL_BP_AIManager_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.SKEL_BP_AIManager_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.SKEL_BP_AIManager_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.SKEL_BP_AIManager_C' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.09:993][332]LogMetaData: Removing '/Game/Blueprints/Managers/BP_AIManager.BP_AIManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_AIManager.PackageMetaData'
+[2022.05.30-12.13.10:027][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_AIManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_AIManager.uasset" SILENT=true
+[2022.05.30-12.13.10:033][332]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_AIManager73BDFA2A45B4AB61B51F3BBF3BBABB4E.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_AIManager.uasset'
+[2022.05.30-12.13.10:134][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.05.30-12.13.10:163][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.30-12.13.10:179][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.30-12.13.10:210][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2022.05.30-12.13.10:237][332]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_GameMode4E8321534CDF322CE080EDA70E04924B.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset'
+[2022.05.30-12.13.10:290][332]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-12.13.10:290][332]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_AIManager.BP_AIManager
+[2022.05.30-12.13.10:290][332]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager_C' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:OnGameEnd.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:OnTimerEnd.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:OnGameStart.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager:OnTimerStart.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C:Event OnCheckPointBeginOverlap' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C:Event StartTimer' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C:Event StopTimer' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.SKEL_BP_GameRulesManager_C' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:024][772]LogMetaData: Removing '/Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_GameRulesManager.PackageMetaData'
+[2022.05.30-12.13.15:060][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_GameRulesManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_GameRulesManager.uasset" SILENT=true
+[2022.05.30-12.13.15:078][772]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_GameRulesManagerABB0F13946A1B16DCC2E48982E7ECB4A.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_GameRulesManager.uasset'
+[2022.05.30-12.13.15:159][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.05.30-12.13.15:185][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.05.30-12.13.15:201][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.30-12.13.15:225][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2022.05.30-12.13.15:252][772]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_GameModeF1E21F964E8A867267F6E698C6DBCDF9.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset'
+[2022.05.30-12.13.15:308][772]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-12.13.15:308][772]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_GameRulesManager.BP_GameRulesManager
+[2022.05.30-12.13.15:308][772]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2022.05.30-12.13.18:439][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager_C' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:439][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:439][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager:CanBeOpened.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager:CanBeOpened.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.SKEL_BP_RoomsManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.SKEL_BP_RoomsManager_C:Event OpenDoor' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.SKEL_BP_RoomsManager_C:Event CloseDoor' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.SKEL_BP_RoomsManager_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.SKEL_BP_RoomsManager_C' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:440][ 53]LogMetaData: Removing '/Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_RoomsManager.PackageMetaData'
+[2022.05.30-12.13.18:475][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.13.18:485][ 53]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager54B87BCF4A1D12E7D6A4268ABD32F6B5.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.13.18:560][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.30-12.13.18:585][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.30-12.13.18:601][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.30-12.13.18:626][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2022.05.30-12.13.18:655][ 53]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_GameMode2E98BA8440F9661AA862CFAA7B050904.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_GameMode.uasset'
+[2022.05.30-12.13.18:706][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.30-12.13.18:706][ 53]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.13.18:706][ 53]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2022.05.30-12.13.44:268][337]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.30-12.17.38:103][ 41]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.05.30-12.17.38:118][ 41]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.05.30-12.17.42:612][490]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_DoorType
+[2022.05.30-12.17.42:614][490]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.05.30-12.17.44:800][705]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enums/E_DoorType.E_DoorType
+[2022.05.30-12.18.02:231][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_DoorType" FILE="E:/UE/Maze/Maze/Content/Enums/E_DoorType.uasset" SILENT=true
+[2022.05.30-12.18.02:232][728]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/E_DoorTypeA054DDE84C9CEB03DAF7B186DABEA97F.tmp' to 'E:/UE/Maze/Maze/Content/Enums/E_DoorType.uasset'
+[2022.05.30-12.18.02:248][728]AssetCheck: New page: Asset Save: E_DoorType
+[2022.05.30-12.18.02:248][728]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_DoorType.E_DoorType
+[2022.05.30-12.18.13:681][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.05.30-12.18.26:047][805]LogSlate: Took 0.001311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.30-12.18.32:784][425]BlueprintLog: New page: Compile BP_Door
+[2022.05.30-12.18.32:832][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.05.30-12.18.33:207][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.05.30-12.18.33:223][449]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_Door9BA2908E441EA0CD3E57B7BE6DAC666D.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_Door.uasset'
+[2022.05.30-12.18.33:241][449]AssetCheck: New page: Asset Save: BP_Door
+[2022.05.30-12.18.33:241][449]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.05.30-12.18.37:895][844]BlueprintLog: New page: Compile BP_Door
+[2022.05.30-12.18.37:939][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.05.30-12.18.38:307][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.05.30-12.18.38:322][868]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_DoorB0F1F30C4DB3C6ABFC70F5B5382209F2.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_Door.uasset'
+[2022.05.30-12.18.38:337][868]AssetCheck: New page: Asset Save: BP_Door
+[2022.05.30-12.18.38:337][868]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.05.30-12.18.40:581][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CheckPoint.BP_CheckPoint
+[2022.05.30-12.18.43:804][328]LogClass: Warning: In asset 'None', there is an enum property of type 'E_CheckPointType' with an invalid value of '('
+[2022.05.30-12.18.43:804][328]LogClass: Warning: In asset 'None', there is an enum property of type 'E_CheckPointType' with an invalid value of '('
+[2022.05.30-12.18.43:804][328]LogClass: Warning: In asset 'None', there is an enum property of type 'E_CheckPointType' with an invalid value of '('
+[2022.05.30-12.18.44:864][429]BlueprintLog: New page: Compile BP_CheckPoint
+[2022.05.30-12.18.44:904][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.05.30-12.18.45:549][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CheckPoint" FILE="E:/UE/Maze/Maze/Content/Blueprints/BP_CheckPoint.uasset" SILENT=true
+[2022.05.30-12.18.45:552][481]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_CheckPoint1873815246CCEBFF58E2F89D74F7C7DB.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/BP_CheckPoint.uasset'
+[2022.05.30-12.18.45:569][481]AssetCheck: New page: Asset Save: BP_CheckPoint
+[2022.05.30-12.18.45:569][481]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_CheckPoint.BP_CheckPoint
+[2022.05.30-12.18.50:386][930]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-12.18.50:386][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-12.18.50:655][948]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.30-12.18.50:655][948]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.30-12.18.50:656][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.30-12.23.49:979][509]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.23.50:019][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.30-12.23.50:503][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.23.50:518][549]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager646AA4AC4B8533D011DC0C936C05355F.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.23.50:535][549]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.23.50:535][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.23.55:283][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.05.30-12.24.20:784][346]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.24.20:821][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.05.30-12.24.21:137][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.24.21:153][370]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager008213D84E36C268EA8EFAB88B1CD219.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.24.21:169][370]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.24.21:169][370]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.25.46:723][456]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.25.46:765][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.30-12.25.47:354][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.25.47:372][511]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager9C08DE9645AC5FA62B58D4B424F882A9.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.25.47:389][511]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.25.47:389][511]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.26.09:114][594]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.26.09:153][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.05.30-12.28.09:753][426]LogEditorTransaction: Undo Move Nodes
+[2022.05.30-12.28.11:090][520]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.05.30-12.28.11:677][570]LogEditorTransaction: Undo Move Node
+[2022.05.30-12.28.15:173][879]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.28.15:214][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.05.30-12.28.15:541][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.28.15:558][902]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager31D637B34B8C7192EE09A6BF461049CB.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.28.15:578][902]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.28.15:578][902]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.31.43:071][677]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetArrayLibrary::FilterArray' [Элемент не найден.]
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA5CB3C6-4028-C118-D632-F3BB6E3AE82E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1c1fb44344a2dcea9564eb96d4aa312e%7Cacc8ef31618d4ad6aa5242249b34ca5f%7C4b77454b-1ff9-44dd-8007-7d66e69b2dee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 59.12s
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200 Response Header Server: awselb/2.0
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200 Response Header Date: Mon, 30 May 2022 12:33:12 GMT
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200 Response Header Content-Type: text/html
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200 Response Header Content-Length: 122
+[2022.05.30-12.33.11:750][868]LogHttp: Warning: 0000016EA0E53200 Response Header Connection: keep-alive
+[2022.05.30-12.34.50:751][915]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.34.50:798][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.05.30-12.34.51:164][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.34.51:185][941]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager3E674644402D5EBB8C7938840C716E3F.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.34.51:205][941]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.34.51:206][941]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.34.59:264][680]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.34.59:306][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.30-12.34.59:679][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.34.59:700][707]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManagerE5349C78445EDDBAD65B26AE3312307D.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.34.59:716][707]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.34.59:716][707]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.35.03:721][ 61]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.35.03:764][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.05.30-12.35.05:312][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.35.05:333][192]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager7AB1503943554E0F0866AC828FBF9E3F.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.35.05:348][192]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.35.05:348][192]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.36.33:832][320]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.36.33:876][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.05.30-12.36.34:181][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.36.34:203][342]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManagerB713A585434DFF260146CDA54F318B50.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.36.34:219][342]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.36.34:219][342]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.36.50:314][731]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.36.50:358][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.05.30-12.36.50:664][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.36.50:690][753]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager4ED4594D49CE70D0B7CCFFAD5FCD9F9D.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.36.50:708][753]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.36.50:709][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.37.21:607][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.05.30-12.37.21:609][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MazeMap" FILE="E:/UE/Maze/Maze/Saved/Autosaves/Game/Maps/MazeMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.30-12.37.21:620][521]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/MazeMap_Auto1554931E34DEACD2186E83FA9EDA751B5.tmp' to 'E:/UE/Maze/Maze/Saved/Autosaves/Game/Maps/MazeMap_Auto1.umap'
+[2022.05.30-12.37.21:645][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MazeMap' took 0.059
+[2022.05.30-12.37.21:645][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2022.05.30-12.37.42:169][337]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.37.42:211][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.30-12.37.42:815][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.37.42:838][386]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManager0FAAD1A24EA956928F7A828B8EB4E7CE.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.37.42:853][386]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.37.42:853][386]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.39.01:873][865]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-12.39.01:873][865]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-12.39.05:308][169]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-12.39.05:308][169]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.30-12.39.31:003][501]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.39.31:046][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.05.30-12.39.31:401][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.39.31:424][525]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManagerB544720749720F4299EF3AB8D447AA9D.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.39.31:439][525]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.39.31:439][525]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.41.14:177][876]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.30-12.41.22:116][644]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.41.22:124][644]LogBlueprint: Error: [AssetLog] E:\UE\Maze\Maze\Content\Blueprints\Managers\BP_RoomsManager.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2022.05.30-12.41.22:161][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.05.30-12.41.39:543][242]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.41.39:550][242]LogBlueprint: Error: [AssetLog] E:\UE\Maze\Maze\Content\Blueprints\Managers\BP_RoomsManager.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2022.05.30-12.41.39:585][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.30-12.41.39:952][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.41.39:975][270]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManagerA42A7CFD4D13CF06A108C7A7BE50A967.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.41.39:992][270]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.41.39:992][270]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.41.49:794][196]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.41.49:801][196]LogBlueprint: Error: [AssetLog] E:\UE\Maze\Maze\Content\Blueprints\Managers\BP_RoomsManager.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2022.05.30-12.41.49:837][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.05.30-12.42.22:163][438]BlueprintLog: New page: Compile BP_RoomsManager
+[2022.05.30-12.42.22:207][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.05.30-12.42.22:752][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Managers/BP_RoomsManager" FILE="E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset" SILENT=true
+[2022.05.30-12.42.22:777][482]LogSavePackage: Moving 'E:/UE/Maze/Maze/Saved/BP_RoomsManagerD4105E4E4AE3C4BEE8EDF38B661C5EA7.tmp' to 'E:/UE/Maze/Maze/Content/Blueprints/Managers/BP_RoomsManager.uasset'
+[2022.05.30-12.42.22:795][482]AssetCheck: New page: Asset Save: BP_RoomsManager
+[2022.05.30-12.42.22:795][482]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Managers/BP_RoomsManager.BP_RoomsManager
+[2022.05.30-12.43.11:705][770]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.30-12.43.11:716][770]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.011 s
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: 
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: Stack: 
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901d9d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901c42141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901c40db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901c4e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901cc6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff901cc4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff90842fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff90842faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff908431ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff908431ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:717][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff90842faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff908431ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e44a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e43dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e46d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907d7252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff907e47aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff9081f977e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff9081f9b2b UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff90822b93e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff9081fa0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff908251e57 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff908251659 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff7b2b6ae49 UE4Editor.exe!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff7b2b8117c UE4Editor.exe!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff7b2b8125a UE4Editor.exe!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff7b2b952bd UE4Editor.exe!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff7b2b97fea UE4Editor.exe!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff97b857034 KERNEL32.DLL!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: [Callstack] 0x00007ff97bd62651 ntdll.dll!UnknownFunction []
+[2022.05.30-12.43.11:718][770]LogOutputDevice: Error: 
